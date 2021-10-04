@@ -5649,7 +5649,7 @@
 			set: v,
 			welcome: p,
 			version: function() {
-				return "2.1.2"
+				return "The current version is v1.0\nBuilt by 3kh0"
 			}
 		};
 	e.a = x
