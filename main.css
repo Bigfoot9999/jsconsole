@@ -179,7 +179,7 @@ html {
     background-repeat: no-repeat;
 }
 .Line .input:before {
-    background-image: url(/in.svg);
+    background-image: url(in.svg);
     top: 0.9rem;
 }
 .Line .prompt.error {
